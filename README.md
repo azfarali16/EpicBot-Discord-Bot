@@ -6,13 +6,11 @@ Epic Bot is a Discord bot developed in Python to provide users with real-time up
 
 1. Clone the repository to your local machine.
 
-2. Install the required dependencies listed in the `requirements.txt` file.
+2. Locate the `apikeys.py` file in the root directory of the project.
 
-3. Locate the `apikeys.py` file in the root directory of the project.
+3. Open the `apikeys.py` file for editing.
 
-4. Open the `apikeys.py` file for editing.
-
-5. Modify the placeholders in the `apikeys.py` file with your actual API keys and IDs as follows:
+4. Modify the placeholders in the `apikeys.py` file with your actual API keys and IDs as follows:
 
    ```python
    # apikeys.py
